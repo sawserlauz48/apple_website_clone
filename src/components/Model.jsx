@@ -27,7 +27,16 @@ const large = useRef(new THREE.Group());
 const [smallRotation, setSmallRotation] = useState(0);
 const [largeRotation, setLargeRotation] = useState(0);
 
+const tl =gsap.timeline();
 
+useEffect(()=>{
+  if(size === "large"){
+    
+  }
+  if(size === "small"){
+
+  }
+},[size])
 useGSAP(() => {
     gsap.to('#heading', { y: 0, opacity: 1 })
   }, []);
