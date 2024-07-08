@@ -1,18 +1,19 @@
- Introduction 
+ <h1> Introduction </h1> 
 
    This is a clone of Apple's iPhone 15 Pro website using React.js and TailwindCSS. It highlights the effective use of GSAP (Greensock Animations) and Three.js for displaying iPhone 15 Pro models in various colors and shapes.
 
-Tech Stack
+<h1> Tech Stack </h1>
+<ul>
+ <li>React.js</li>
+ <li>Three.js</li>
+ <li>React Three Fiber</li>
+ <li>React Three Drei</li>
+ <li>GSAP (Greensock)</li>
+ <li>Vite</li>
+ <li>Tailwind CSS</li>
+</ul>
 
-  React.js
-  Three.js
-  React Three Fiber
-  React Three Drei
-  GSAP (Greensock)
-  Vite
-  Tailwind CSS
-
-Features
+<h1> Features </h1>
 
   Beautiful Subtle Smooth Animations using GSAP: Enhanced user experience with seamless and captivating animations powered by GSAP.
 
@@ -24,11 +25,11 @@ Features
 
   and many more, including code architecture and reusability
 
-Quick Start
+<h1> Quick Start  </h1>
 
   Follow these steps to set up the project locally on your machine.
 
-  Prerequisites
+  <h3> Prerequisites </h3>
 
   Make sure you have the following installed on your machine:
 
